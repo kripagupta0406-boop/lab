@@ -1,0 +1,60 @@
+LAB 1
+mkdir & cd – kripa and prog
+notepad 1a.txt
+git config –global user.name&email “ “
+git init
+git add 1a.txt
+git status
+git commit -m “ “
+git status
+git log
+ 
+				lab 2
+mkdir cd kripa and prog
+notepad 2a.txt
+git config name and email
+git init
+git add 2a.txt
+git status
+git commit -m
+git status
+git checkout -b fb1
+notepad 2a.txt
+add 2a.txt
+git status
+git commit -m
+git checkout master
+notepad 2a.txt
+git merge fb1
+notepad 2a.txt
+ 
+				LAB 3
+mkdir cd kripa and prog
+notepad 3a.txt
+git config name email
+git init
+git add 3a.txt
+git status
+git commit 
+git log
+git checkout -b fb1
+3a.txt
+git stash save “save”
+git checkout master
+git checkout -b fb2
+3a.txt
+git stash apply
+git add.
+git status
+git commit -m “fb2’
+git checkout master
+git merge fb2
+3a.txt
+git stash list
+git stash pop 0
+
+ 
+					lab 4
+mkdir cd kripa & prog 4
+git clone link paste
+github se link paste
