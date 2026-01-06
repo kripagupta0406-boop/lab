@@ -58,3 +58,28 @@ git stash pop 0
 mkdir cd kripa & prog 4
 git clone link paste
 github se link paste
+
+                   lab 5
+mkdir cd kripa and prog 1 
+git config  --global user.name&email "kripa"
+git clone link paste
+cd repo1
+file1.txt
+git fetch origin
+git rebase origin/main
+file1.txt
+git add file1.txt
+git checkout -b fb1
+file1.txt
+git add file1.txt
+git commit -m "committing 3rd line in fb1 branch"
+git fetch origin
+git rebase origin/main
+conflict aayega
+file1.txt
+git add file1.txt
+git rebase --continue
+                   lab 6
+same as 5 after that 
+git checkout main
+git merge fb1
